@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Pong\Pong\main.cpp(40,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\User\source\repos\Pong\Pong\main.cpp(41,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\User\source\repos\Pong\Pong\main.cpp(247,23): warning C4018: '<': signed/unsigned mismatch
+  Pong.vcxproj -> C:\Users\User\source\repos\Pong\Debug\Pong.exe
